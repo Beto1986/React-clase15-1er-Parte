@@ -1,3 +1,9 @@
+Trabajo realizado en clase de maquetación en Material UI:
+
+![image](https://user-images.githubusercontent.com/78559321/140656931-c43133e3-a837-440f-93fe-29a423efd2d4.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
